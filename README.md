@@ -1,0 +1,1 @@
+Use the command `colcon build` to build the project.
